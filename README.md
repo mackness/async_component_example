@@ -1,6 +1,6 @@
 # Webpack Boilerplate
 
-This is my personal Webpack configuration. It's a framework agnostic boilerplate that's designed for use for general JS projects.
+Example that shows how to load react components asynchronously with code splitting.
 
 ## Project Setup
 
@@ -14,8 +14,3 @@ npm run dev
 ```
 npm t 
 ```
-
-
-## LICENSE
-
-MIT
